@@ -77,7 +77,7 @@
   [📄 Paper](https://openreview.net/forum?id=l11DZY5Nxu) | [📥 ArXiv](https://arxiv.org/abs/2505.00930)
 
 ---
-
+<!---
 ## 🔍 Selected Projects
 
 ### Weak-to-Strong Generalization in Pretraining  
@@ -105,7 +105,7 @@
 - Hybrid PC+LLM achieves up to 25% F1 improvement on benchmarks.  
 - [🔗 GitHub](https://github.com/yourusername/novographs) | [🔗 Docs](https://yourusername.github.io/novographs)
 
----
+--->
 
 ## 📈 GitHub Activity
 
