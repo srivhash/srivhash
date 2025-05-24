@@ -112,7 +112,7 @@
 - Hybrid PC+LLM achieves up to 25% F1 improvement on benchmarks.  
 - [🔗 GitHub](https://github.com/yourusername/novographs) | [🔗 Docs](https://yourusername.github.io/novographs)
 
---->
+
 
 ## 📈 GitHub Activity
 
@@ -129,7 +129,7 @@
 - **Open Research:** Welcoming collaborators on research in AI safety, causal discovery, and ML fairness.
 
 ---
-
+--->
 > “The best way to predict the future is to invent it.” – Alan Kay
 
 <p align="center">
