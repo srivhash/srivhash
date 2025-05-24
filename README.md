@@ -117,15 +117,12 @@
 
 ---
 --->
-> “The best way to predict the future is to invent it.” – Alan Kay
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srivhash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=srivhash&icon=0&color=0)](https://visitcount.itsvg.in)
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 <p align="center">
   <em>Thanks for visiting—let’s build something impactful together!</em>
