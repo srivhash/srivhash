@@ -70,7 +70,7 @@
 
 - **Robust Root Cause Diagnosis using In-Distribution Interventions**  
   L. Nagalapatti, A. Srivastava, S. Sarawagi, A. Sharma. _ICLR 2025_.  
-  [📄 Paper](https://openreview.net/forum?id=l11DZY5Nxu) | [📥 ArXiv](https://arxiv.org/abs/XXXX.XXXXX)
+  [📄 Paper](https://openreview.net/forum?id=l11DZY5Nxu) | [📥 ArXiv](https://arxiv.org/abs/2505.00930)
 
 ---
 
