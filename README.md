@@ -15,9 +15,13 @@
   <a href="https://github.com/srivhash" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-srivhash-black?logo=github&style=flat-square" alt="GitHub">
   </a>
-  <a href="https://anonymous.4open.science/r/novographs-5005/README.md" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-NoVoGraphs-lightgrey?style=flat-square" alt="NoVoGraphs">
+  <a href="https://x.com/srivhash" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-srivhash-black?logo=x&style=flat-square" alt="Twitter">
   </a>
+  
+<!--   <a href="https://anonymous.4open.science/r/novographs-5005/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-NoVoGraphs-lightgrey?style=flat-square" alt="NoVoGraphs">
+  </a> -->
 </p>
 
 ---
